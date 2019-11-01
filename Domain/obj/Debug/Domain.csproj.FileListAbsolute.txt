@@ -1,0 +1,11 @@
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Domain\bin\Debug\Domain.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Domain\bin\Debug\Domain.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Domain\obj\Debug\Domain.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Domain\obj\Debug\Domain.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\bin\Debug\Domain.dll
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\bin\Debug\Domain.pdb
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\obj\Debug\Domain.dll
+C:\Users\marco\Videos\.Net_EntityFramework_MVC_CAPAS-master\Domain\obj\Debug\Domain.pdb
